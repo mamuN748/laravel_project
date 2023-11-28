@@ -90,3 +90,6 @@
     <script src="{{asset('contents/admin')}}/js/custom.js"></script>
   </body>
 </html>
+
+
+<sjkdhfjlkasfhasdlkjfsdfa-flip-horizontals></sjkdhfjlkasfhasdlkjfsdfa-flip-horizontals>
